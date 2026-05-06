@@ -1,3 +1,5 @@
+<img width="192" height="208" alt="00" src="https://github.com/user-attachments/assets/67bcc360-2ba3-4a51-8307-de5d0f4ca98c" />
+
 # Superweirdo Codex Pet
 
 `Superweirdo` is a custom Codex pet based on a character from our new game **SuperWEIRD**.
@@ -21,8 +23,6 @@ Superweirdo is a character from our new game **SuperWEIRD**.
 - `pet.json`
 - `spritesheet.webp`
 - `preview.png`
-
-![Superweirdo preview](preview.png)
 
 ## Install
 
