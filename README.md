@@ -2,13 +2,25 @@
 
 `Superweirdo` is a custom Codex pet based on a character from our new game **SuperWEIRD**.
 
-![Superweirdo preview](preview.png)
+## About SuperWEIRD
+
+Superweirdo is a character from our new game **SuperWEIRD**.
+
+- Game site: [superweird.io](https://superweird.io)
+- Studio site: [luden.io](https://luden.io)
+- Game explainer video: [YouTube](https://www.youtube.com/watch?v=SgAw6QspI18)
+- Wishlist on Steam: [SuperWEIRD: Automation Roguelite](https://store.steampowered.com/app/3818770/SuperWEIRD_Automation_Roguelite/?utm_source=githubsuperweirdocodexpet)
+- Join our Discord and get a free Steam playtest key: [discord.gg/wYtNbGVmxU](https://discord.gg/wYtNbGVmxU)
+
+[<img width="849" height="473" alt="image" src="https://github.com/user-attachments/assets/9096c1a3-ebc8-48d6-912a-8685cb337ae2" />](https://www.youtube.com/watch?v=SgAw6QspI18)
 
 ## Included Files
 
 - `pet.json`
 - `spritesheet.webp`
 - `preview.png`
+
+![Superweirdo preview](preview.png)
 
 ## Install
 
@@ -26,12 +38,3 @@ Final structure:
 └── spritesheet.webp
 ```
 
-## About SuperWEIRD
-
-Superweirdo is a character from our new game **SuperWEIRD**.
-
-- Game site: [superweird.io](https://superweird.io)
-- Studio site: [luden.io](https://luden.io)
-- Game explainer video: [YouTube](https://www.youtube.com/watch?v=SgAw6QspI18)
-- Wishlist on Steam: [SuperWEIRD: Automation Roguelite](https://store.steampowered.com/app/3818770/SuperWEIRD_Automation_Roguelite/?utm_source=githubsuperweirdocodexpet)
-- Join our Discord and get a free Steam playtest key: [discord.gg/wYtNbGVmxU](https://discord.gg/wYtNbGVmxU)
