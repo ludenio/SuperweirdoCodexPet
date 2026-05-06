@@ -12,7 +12,9 @@ Superweirdo is a character from our new game **SuperWEIRD**.
 - Wishlist on Steam: [SuperWEIRD: Automation Roguelite](https://store.steampowered.com/app/3818770/SuperWEIRD_Automation_Roguelite/?utm_source=githubsuperweirdocodexpet)
 - Join our Discord and get a free Steam playtest key: [discord.gg/wYtNbGVmxU](https://discord.gg/wYtNbGVmxU)
 
-[<img width="849" height="473" alt="image" src="https://github.com/user-attachments/assets/9096c1a3-ebc8-48d6-912a-8685cb337ae2" />](https://www.youtube.com/watch?v=SgAw6QspI18)
+
+
+[<img width="1280" height="713" alt="youtube" src="https://github.com/user-attachments/assets/3da54875-4e12-4101-a266-741f43b7e0b3" />](https://www.youtube.com/watch?v=SgAw6QspI18)
 
 ## Included Files
 
