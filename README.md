@@ -16,6 +16,7 @@
 2. Create the folder `~/.codex/pets/superweirdo/`
 3. Copy `pet.json` and `spritesheet.webp` into that folder.
 4. Restart Codex if it is already open.
+5. In Codex settings, enable pets and separately select `Superweirdo` as your active pet.
 
 Final structure:
 
@@ -31,5 +32,6 @@ Superweirdo is a character from our new game **SuperWEIRD**.
 
 - Game site: [superweird.io](https://superweird.io)
 - Studio site: [luden.io](https://luden.io)
+- Game explainer video: [YouTube](https://www.youtube.com/watch?v=SgAw6QspI18)
 - Wishlist on Steam: [SuperWEIRD: Automation Roguelite](https://store.steampowered.com/app/3818770/SuperWEIRD_Automation_Roguelite/?utm_source=githubsuperweirdocodexpet)
 - Join our Discord and get a free Steam playtest key: [discord.gg/wYtNbGVmxU](https://discord.gg/wYtNbGVmxU)
