@@ -1,4 +1,4 @@
-<img width="192" height="208" alt="00" src="https://github.com/user-attachments/assets/67bcc360-2ba3-4a51-8307-de5d0f4ca98c" />
+<img width="192" height="208" alt="01 (1)" src="https://github.com/user-attachments/assets/69f4e9c6-ce51-4a96-8a44-c0dbeec304a8" />
 
 # Superweirdo Codex Pet
 
