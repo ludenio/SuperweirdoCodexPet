@@ -1,12 +1,12 @@
 <img width="196" height="209" alt="preview" src="https://github.com/user-attachments/assets/bb8b408e-3c71-4cd0-9f50-e4522008634b" />
 
-# Superweirdo Codex Pet
+# SuperWEIRD Petr Codex Pet
 
-`Superweirdo` is a custom Codex pet based on a character from our new game **SuperWEIRD**.
+`SuperWEIRD Petr` is a custom Codex pet based on a character from our new game **SuperWEIRD**.
 
 ## About SuperWEIRD
 
-Superweirdo is a character from our new game **SuperWEIRD**.
+SuperWEIRD Petr is a character from our new game **SuperWEIRD**.
 
 - Game site: [superweird.io](https://superweird.io)
 - Studio site: [luden.io](https://luden.io)
@@ -26,15 +26,15 @@ Superweirdo is a character from our new game **SuperWEIRD**.
 ## Install
 
 1. Download this repository as a ZIP, or clone it.
-2. Create the folder `~/.codex/pets/superweirdo/`
+2. Create the folder `~/.codex/pets/superweirdpetr/`
 3. Copy `pet.json` and `spritesheet.webp` into that folder.
 4. Restart Codex if it is already open.
-5. In Codex settings, enable pets and separately select `Superweirdo` as your active pet.
+5. In Codex settings, enable pets and separately select `SuperWEIRD Petr` as your active pet.
 
 Final structure:
 
 ```text
-~/.codex/pets/superweirdo/
+~/.codex/pets/superweirdpetr/
 ├── pet.json
 └── spritesheet.webp
 ```
