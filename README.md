@@ -22,7 +22,6 @@ Superweirdo is a character from our new game **SuperWEIRD**.
 
 - `pet.json`
 - `spritesheet.webp`
-- `preview.png`
 
 ## Install
 
@@ -39,4 +38,3 @@ Final structure:
 ├── pet.json
 └── spritesheet.webp
 ```
-
